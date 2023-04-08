@@ -1,0 +1,24 @@
+.yur__section {
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.yur__list {
+  cursor: pointer;
+}
+.yur__item-one {
+  color: bisque;
+  background-color: blueviolet;
+  margin-bottom: 30px;
+}
+.yur__item-two {
+  color: floralwhite;
+  background-color: brown;
+  margin-bottom: 100px;
+}
+.yur__item-three {
+  width: 130px;
+  color: blue;
+  background-color: coral;
+  padding-bottom: 43px;
+}
