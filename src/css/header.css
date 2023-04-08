@@ -1,5 +1,5 @@
 .header {
-  padding: 20px 0;
+  padding: 20px 0 31px;
 }
 
 .nav-list {
@@ -10,12 +10,14 @@
 }
 
 .nav-link {
+  font-size: 55px;
   font-weight: 500;
-  letter-spacing: 0.02em;
-  line-height: 1.5;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
 }
 
 .nav-link:hover,
 .nav-link:focus {
-  color: #747bff;
+  color: crimson;
+  background-color: blueviolet;
 }
